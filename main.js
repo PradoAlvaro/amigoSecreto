@@ -45,7 +45,7 @@ const participants = [
     calca: "42",
     sapato: "41",
     image: "imgs/silvio.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://shopee.com.br/product/318048655/6891439866?d_id=174aa&uls_trackid=51bdq1m10064&utm_content=4Mr43s8wpDD2ajoei2xvPwbgHWKh",
   },
   {
     nome: "Rodrigo",
@@ -95,7 +95,7 @@ const participants = [
     calca: "40/42",
     sapato: "36",
     image: "imgs/lethicia.jpeg", 
-    suggestions:"https://www.anacapri.com.br/tenis-bf-anacapri-skater-multineutro-atacador-bege/p/3053100010004U?gad_source=1&gbraid=0AAAAADmB4XwyBXKh9Q8Uc3J0txobQWHZW&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn59Bx-XkgiQ5bIQwnhkr5BZzLiUKD_B0JjvdxtIRJF9Bt4vECsQVgAaAtjiEALw_wcB",
+    suggestion:"https://www.anacapri.com.br/tenis-bf-anacapri-skater-multineutro-atacador-bege/p/3053100010004U?gad_source=1&gbraid=0AAAAADmB4XwyBXKh9Q8Uc3J0txobQWHZW&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn59Bx-XkgiQ5bIQwnhkr5BZzLiUKD_B0JjvdxtIRJF9Bt4vECsQVgAaAtjiEALw_wcB",
   },
   {
     nome: "Adriano",
@@ -159,7 +159,7 @@ const participants = [
     calca: "40",
     sapato: "41",
     image: "imgs/edu.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://www.google.com/search?q=cueca+elefante&oq=cueca+elefante&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIzOThqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8",
   },
   {
     nome: "Bruno",
@@ -215,7 +215,7 @@ const participants = [
     calca: "4",
     sapato: "25/26",
     image: "imgs/manu.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://shopee.com.br/product/1006215031/24526325028?d_id=84f21&uls_trackid=51b76one00t7&utm_content=7PamYXeNhHEwcgGhnx2ZreFFAZD",
   },
 ];
 
