@@ -1,12 +1,10 @@
-/* Resetando margens e preenchimentos padrões */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Cor de fundo e fonte para o corpo */
-/* Corpo do site */
 body {
   font-family: 'Roboto', sans-serif;
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.9), rgba(34, 34, 34, 0.9)), url('imgs/background.jpg') no-repeat center center fixed;
@@ -17,7 +15,6 @@ body {
   box-sizing: border-box;
 }
 
-/* Container dos cards */
 #cardsContainer {
   display: flex;
   flex-wrap: wrap;
@@ -91,8 +88,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Estilo do campo de busca */
-/* Container para o campo de busca e botão */
+
 #searchContainer {
   display: flex;
   justify-content: center;
@@ -101,7 +97,7 @@ body {
   margin-top: 20px;
 }
 
-/* Campo de busca */
+
 #searchInput {
   width: 250px; /* Definindo uma largura fixa */
   padding: 12px 15px;
@@ -118,7 +114,6 @@ body {
   outline: none;
 }
 
-/* Botão de busca */
 #searchButton {
   background-color: #00bcd4;
   color: white;
@@ -144,7 +139,6 @@ button:hover, input[type="submit"]:hover {
   transform: scale(1.05);
 }
 
-/* Estilo do header */
 header {
   text-align: center;
   padding: 40px 0;
@@ -194,6 +188,4 @@ a:hover {
   header h1 {
     font-size: 2rem;
   }
-
-
 }
