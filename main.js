@@ -109,7 +109,7 @@ const participants = [
     nome: "Raiany",
     camiseta: "GG",
     calca: "GG",
-    sapato: "38/39",
+    sapato: "40/41",
     image: "imgs/raiany.jpeg", 
     suggestion: "SEMLINK",
   },
