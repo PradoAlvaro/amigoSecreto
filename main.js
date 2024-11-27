@@ -111,7 +111,7 @@ const participants = [
     calca: "GG",
     sapato: "40/41",
     image: "imgs/raiany.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://www.amazon.com.br/dp/6586818176?tag=presente5-20&linkCode=ogi&th=1&psc=1",
   },
   {
     nome: "Ana Clara",
