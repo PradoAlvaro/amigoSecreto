@@ -195,7 +195,7 @@ const participants = [
   },
   {
     nome: "Bernardo",
-    camiseta: "M",
+    camiseta: "10",
     calca: "8/10",
     sapato: "30",
     image: "imgs/bernardo.jpeg", 
