@@ -119,7 +119,7 @@ const participants = [
     calca: "46",
     sapato: "39",
     image: "imgs/ana.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://shopee.com.br/product/295657047/4347372625?d_id=373a1&uls_trackid=51c650t90082&utm_content=3vEiEwUJ7E8YaFh2qdBBFtJU2CQ7",
   },
   {
     nome: "Mauricio",
