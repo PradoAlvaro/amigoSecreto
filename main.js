@@ -191,7 +191,7 @@ const participants = [
     calca: "/",
     sapato: "/",
     image: "imgs/marcelo.jpeg", 
-    suggestion: "SEMLINK",
+    suggestion: "https://www.palmeirasstore.com/jaqueta-palmeiras-puff-masculina-9924014-palm_pai/p?idsku=25565&utm_source=googleshopping&utm_campaign=xml&utm_medium=cpc&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoDtjK_9XhqJG8Plopefo18Jf0oPS50LYVkZ1NvpjfrVTLlYpanvJNxoClcYQAvD_BwE",
   },
   {
     nome: "Bernardo",
